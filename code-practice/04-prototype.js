@@ -19,3 +19,4 @@ profile1.greet();
 console.log(profile1.__proto__);
 
 
+
