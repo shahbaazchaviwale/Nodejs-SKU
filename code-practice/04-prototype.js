@@ -1,3 +1,4 @@
+// create constructor
 function Person(fname, lname){
     this.first_name = fname;
     this.last_name = lname;
